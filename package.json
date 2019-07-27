@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shad17/inbox1/issues"
   },
-  "homepage": "https://github.com/shad17/inbox1#readme"
+  "homepage": "https://github.com/shad17/inbox1#readme",
+  "dependencies": {
+    "solc": "^0.4.25"
+  }
 }
